@@ -1,3 +1,7 @@
 index:
     path: /
     controller: App\Controller\HomeController::index
+
+ingredient:
+    path: /ingredient
+    controller: App\Controller\IngredientController::index

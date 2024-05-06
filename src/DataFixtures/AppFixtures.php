@@ -13,7 +13,7 @@ class AppFixtures extends Fixture
     /**
      * @var Generator
      */
-    private $faker;
+    private Generator $faker;
     
     public function __construct()
     {
